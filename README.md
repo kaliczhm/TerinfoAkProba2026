@@ -9,3 +9,9 @@ Idei elő bemutató repozitóriumom.
 * Felsőgeodézia
 * Távpilóta (drónpilóta)
 * Fotogrammetria II.
+
+
+## Tanterem
+* 4-es terem
+* Nrrc
+* Gt
