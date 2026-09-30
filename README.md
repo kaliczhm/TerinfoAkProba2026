@@ -15,6 +15,7 @@ Idei elő bemutató repozitóriumom.
 * 4-es terem
 * Nrrc
 * Gt
+* gyakorló
 
 ## kezdések
 
