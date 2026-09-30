@@ -24,3 +24,12 @@ Idei elő bemutató repozitóriumom.
 3. szerda 13:00
 4. csütörtök 9:00
 5. péntek 8:00 
+
+## Kedvenc helyek
+
+* Sopron
+* Budapest
+
+## Hasznos linkek
+
+[Markdown útmutató](https://chironszte.github.io/cave-of-chiron/_pages/topics/markdown_and_usage/)
